@@ -13,7 +13,7 @@
 
 > 1. 通过发货记录来确定是否自动发货
 > 2. 到款时间（买家确认收货）
-> 3. https://rulechannel.taobao.com/home?type=detail&ruleId=11004673&cId=89#/rule/detail?ruleId=11004673&cId=89&spm=a2177.7231193.0.0.266517eaDnJegY//保证金挡位缴纳1000/5000/20000
+> 3. https://rulechannel.taobao.com/home?type=detail&ruleId=11004673&cId=89#/rule/detail?ruleId=11004673&cId=89&spm=a2177.7231193.0.0.266517eaDnJegY //保证金挡位缴纳1000/5000/20000
 
 ## 其他
 office 365
